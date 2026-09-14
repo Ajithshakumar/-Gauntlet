@@ -1,0 +1,26 @@
+# PreFlight AI - Pre-Deployment Robustness Validation Platform
+
+# Core ML/DL
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Web Interface
+streamlit>=1.28.0
+
+# Image Processing
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+
+# Data & Visualization
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# AI Analysis
+google-generativeai>=0.5.0
+
+# Utilities
+requests>=2.31.0
+scikit-image>=0.21.0
