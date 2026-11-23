@@ -1,4 +1,4 @@
-# 🚀 PreFlight AI
+# 🛡️ Gauntlet
 
 **Pre-Deployment Robustness Validation Platform for Computer Vision Models**
 
